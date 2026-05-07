@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Central Coast NSW
+
+> Geotechnical engineering services in Central Coast NSW, Australia.
+
+## Services
+- [Anchors](https://central-coast-nsw.geotechnicalengineering1.co/anchors/)
+- [Atterberg Limits](https://central-coast-nsw.geotechnicalengineering1.co/atterberg-limits/)
+- [Cbr Road](https://central-coast-nsw.geotechnicalengineering1.co/cbr-road/)
+- [Cpt Test](https://central-coast-nsw.geotechnicalengineering1.co/cpt-test/)
+- [Deep Excavations](https://central-coast-nsw.geotechnicalengineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://central-coast-nsw.geotechnicalengineering1.co/excavation-monitoring/)
+- [Excavations](https://central-coast-nsw.geotechnicalengineering1.co/excavations/)
+- [Flexible Pavement](https://central-coast-nsw.geotechnicalengineering1.co/flexible-pavement/)
+- [Footings](https://central-coast-nsw.geotechnicalengineering1.co/footings/)
+- [Foundations](https://central-coast-nsw.geotechnicalengineering1.co/foundations/)
+- [Grain Size](https://central-coast-nsw.geotechnicalengineering1.co/grain-size/)
+- [Ground Improvement](https://central-coast-nsw.geotechnicalengineering1.co/ground-improvement/)
+- [Grouting](https://central-coast-nsw.geotechnicalengineering1.co/grouting/)
+- [In Situ Permeability](https://central-coast-nsw.geotechnicalengineering1.co/in-situ-permeability/)
+- [Investigation](https://central-coast-nsw.geotechnicalengineering1.co/investigation/)
+- [Lab In Situ](https://central-coast-nsw.geotechnicalengineering1.co/lab-in-situ/)
+- [Laboratory](https://central-coast-nsw.geotechnicalengineering1.co/laboratory/)
+- [Liquefaction](https://central-coast-nsw.geotechnicalengineering1.co/liquefaction/)
+- [Masw](https://central-coast-nsw.geotechnicalengineering1.co/masw/)
+- [Mat Foundations](https://central-coast-nsw.geotechnicalengineering1.co/mat-foundations/)
+- [Piles](https://central-coast-nsw.geotechnicalengineering1.co/piles/)
+- [Proctor Tests](https://central-coast-nsw.geotechnicalengineering1.co/proctor-tests/)
+- [Resistivity](https://central-coast-nsw.geotechnicalengineering1.co/resistivity/)
+- [Retaining Walls](https://central-coast-nsw.geotechnicalengineering1.co/retaining-walls/)
+- [Rigid Pavement](https://central-coast-nsw.geotechnicalengineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://central-coast-nsw.geotechnicalengineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://central-coast-nsw.geotechnicalengineering1.co/sand-cone-density/)
+- [Seismic](https://central-coast-nsw.geotechnicalengineering1.co/seismic/)
+- [Seismic Isolation](https://central-coast-nsw.geotechnicalengineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://central-coast-nsw.geotechnicalengineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://central-coast-nsw.geotechnicalengineering1.co/seismic-refraction/)
+- [Slope Stability](https://central-coast-nsw.geotechnicalengineering1.co/slope-stability/)
+- [Slopes](https://central-coast-nsw.geotechnicalengineering1.co/slopes/)
+- [Soft Ground Tunnels](https://central-coast-nsw.geotechnicalengineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://central-coast-nsw.geotechnicalengineering1.co/spt-drilling/)
+- [Stone Columns](https://central-coast-nsw.geotechnicalengineering1.co/stone-columns/)
+- [Test Pits](https://central-coast-nsw.geotechnicalengineering1.co/test-pits/)
+- [Triaxial](https://central-coast-nsw.geotechnicalengineering1.co/triaxial/)
+- [Vibrocompaction](https://central-coast-nsw.geotechnicalengineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://central-coast-nsw.geotechnicalengineering1.co/
+
+## About
+This site provides geotechnical engineering services in Central Coast NSW, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
